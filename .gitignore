@@ -16,6 +16,22 @@
 *.dylib
 *.dll
 
+# profiling info
+*.out
+
+# Roms
+*.ch8
+
+# bins
+bin/
+obj/
+ROMS/
+
+# project files
+*.cbp
+*.depend
+*.layout
+
 # Fortran module files
 *.mod
 *.smod
